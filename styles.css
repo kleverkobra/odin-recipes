@@ -1,5 +1,23 @@
+body {
+    background-color: #e5e5ff;
+}
 
 
 #main-title {
     text-align: center;
+    background-color: rgb(255, 91, 91);
+    font-size: 50px;
+}
+
+.list {
+    font-size: 20px;
+}
+
+.imgs {
+    text-align: center;
+}
+
+.sub-heads {
+    font-size: 20px;
+    font-weight: 800;
 }
